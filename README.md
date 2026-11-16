@@ -2,7 +2,7 @@
   font-family: sans-serif
 </style>
 
-# UX220PracticeTest2
+# UX220 PracticeTest 2
 ## forms, css, custom elements
 
 [Q1](q1.html) 
