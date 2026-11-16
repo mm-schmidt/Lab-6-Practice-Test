@@ -1,7 +1,3 @@
-<style>
-  font-family: sans-serif
-</style>
-
 # UX220 PracticeTest 2
 ## forms, css, custom elements
 
