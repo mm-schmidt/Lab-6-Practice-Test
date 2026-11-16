@@ -20,3 +20,7 @@ the .form-group that isn't blue but matches the page background.
 The year should update automatically.
 
 ![auto year](readmeimages/copyright.png)
+
+[Q1](q1.html) 
+[Q2](q2.html) 
+[Q3](q3.html)
